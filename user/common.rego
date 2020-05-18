@@ -1,6 +1,6 @@
 package terraform
 
-contains(arr, elem) {
+array_contains(arr, elem) {
   arr[_] = elem
 }
 
