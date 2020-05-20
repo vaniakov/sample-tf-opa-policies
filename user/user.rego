@@ -4,7 +4,7 @@ import input.tfplan as tfplan
 import input.tfrun as tfrun
 
 
-allowed_cli_users = ["l.ol", "j.smith"]
+allowed_cli_users = ["l.ol", "b.ob"]
 
 
 contains(arr, elem) {
